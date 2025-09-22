@@ -1,0 +1,15 @@
+slno,outlook,temp,humidity,wind,playtennise
+1,sunny,hot,high,weak,n
+2,sunny,hot,high,strong,n
+3,overcast,hot,high,weak,y
+4,rain,mild,high,weak,y
+5,rain,cool,normal,weak,y
+6,rain,cool,normal,strong,n
+7,overcast,cool,normal,strong,y
+8,sunny,mild,high,weak,n
+9,sunny,cool,normal,weak,y
+10,rain,mild,normal,weak,y
+11,sunny,mild,normal,strong,y
+12,overcast,mild,high,strong,y
+13,overcast,hot,normal,weak,y
+14,rain,mild,high,strong,n
